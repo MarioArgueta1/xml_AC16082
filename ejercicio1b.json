@@ -1,0 +1,35 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Mario",
+				"apellido": "Argueta",
+				"direccion": "Calle de Los Andes, 45",
+				"telefono": "77667700",
+				"email": "ac16082@ues.edu.sv",
+				"url": "https://github.com/MarioArgueta1/xml_AC16082.git",
+				"_id": "2",
+				"_fechaingreso": "1/11/2016"
+			},
+			{
+				"nombre": "Mario",
+				"apellido": "Argueta",
+				"direccion": "Calle de Los Andes, 45",
+				"telefono": "77667700",
+				"email": "ac16082@ues.edu.sv",
+				"url": "https://github.com/MarioArgueta1/xml_AC16082.git",
+				"dui": "84050047-8",
+				"iss": "106831156",
+				"_id": "3",
+				"_fechaingreso": "1/11/2016"
+			}
+		]
+	}
+}

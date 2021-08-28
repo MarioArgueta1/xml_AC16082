@@ -1,0 +1,9 @@
+/* ejemplo2.css   AC16082  */
+pais {background-color:aqua;}
+departamento {background-color:purple; display:block;} 
+cabecera {color:green; display:inline;} 
+moneda {color:black; display:inline;} 
+idioma {color:black; display:inline;}
+codigo {color:black; display:inline;}  
+habitantes {color:yellow; display:inline;}
+altura {color:red;font-size:1cm; display:inline;}

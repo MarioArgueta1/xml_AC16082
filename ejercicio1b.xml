@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<!-- ejercicio1b.xml  AC16082 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/11/2016">
+<nombre>Mario</nombre>
+<apellido>Argueta</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+<telefono>77667700</telefono>
+<email>ac16082@ues.edu.sv</email>
+<url>https://github.com/MarioArgueta1/xml_AC16082.git</url>
+</ficha>
+<ficha id="3" fechaingreso="1/11/2016">
+<nombre>Mario</nombre>
+<apellido>Argueta</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+<telefono>77667700</telefono>
+<email>ac16082@ues.edu.sv</email>
+<url>https://github.com/MarioArgueta1/xml_AC16082.git</url>
+<dui>84050047-8</dui>
+<iss>106831156</iss>
+</ficha>
+</fichero>

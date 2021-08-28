@@ -1,0 +1,12 @@
+/* ejemplo2.css   AC16082  */
+fichero {background-color:purple;}
+ficha {background-color:blue; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:inline;}
+telefono {color:yellow;font-size:1cm; display:inline;}
+email {color:yellow;font-size:1cm; display:inline;}
+url {color:yellow;font-size:1cm; display:block;}
+
+
+
